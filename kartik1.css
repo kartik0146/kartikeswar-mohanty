@@ -1,0 +1,106 @@
+.a img{
+    margin-left: 177px;
+    height: 292px;
+    width: 186px;
+}
+.b{
+    margin-top: -169px;
+    margin-left: 496px;
+}
+
+.c{
+    margin-left:6px;
+    margin-bottom: 130px;
+}
+.d{
+   
+    margin-left: 225px;
+    margin-top: -309px;
+    margin-right: 251px;
+}
+.e img{
+    margin-left: 124px;
+    margin-top: 2px;
+}
+.f{
+    margin-left: 256px;
+margin-top: 57px;
+}
+.g{
+    margin-left: 602px;
+margin-top: -142px;
+}
+.h{
+    margin-top: 128px;
+    margin-left:162px;
+}.i{
+    width: 213px;
+margin-left: 174px;
+margin-top: 40px;
+}
+.j{
+    margin-left: -1306px;
+    margin-top: 160px;
+}
+.k{
+    width: 614px;
+margin-bottom: 410px;
+margin-left: -10px;
+margin-top: 27px;
+height: 383px;
+}
+.l{
+    width:258px;
+    margin-left: -289px;
+    margin-top: 242px;
+
+}
+.m{
+    margin-left: 306px;
+    margin-top: -236px;
+}
+.n{
+    overflow: scroll;
+    margin-left: -291px;
+}
+.o{
+    margin-left: 256px;
+margin-top: 45px;
+}
+.p img{
+   height: 275px;
+margin-left: -416px;
+margin-top: -228px;
+}.q{
+    margin-top: 5px;
+    margin-left: -467px;
+}
+.r{
+    margin-left: -762px;
+}
+.s{
+    margin-left: -506px;
+}
+.t{
+    width: 453px;
+    height: 723px;
+    margin-left: -425px;
+    margin-right: 31px;
+    margin-top: -363px;
+ 
+}
+.skill h1{
+text-align: center;
+}
+.col h3{
+    border-bottom: 2px solid black;
+}
+.skill{
+    text-align: center;
+    background-color: rgb(23, 220, 238);
+}
+
+.ass a:hover{
+    background-color: bisque;
+    color: aqua;
+}
